@@ -5,8 +5,8 @@ name:                DeclarativeGraphics-syntaxtext
 version:             0.1.0.0
 -- synopsis:
 -- description:
--- license:
-license-file:        LICENSE
+license:             AllRightsReserved
+-- license-file:        LICENSE
 author:              Philipp Krüger
 maintainer:          matheus.dev@gmail.com
 -- copyright:
